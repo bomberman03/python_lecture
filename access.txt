@@ -1,0 +1,7 @@
+pathFinder:[d46f7d8bfc86c59caa7b722d654cf94809250eba],[정재현],[한국기술교육대]
+hello:[7110eda4d09e062aa5e4a390b0a572ac0d2c0220],[정재현],[한국기술교육대]
+admin:[7110eda4d09e062aa5e4a390b0a572ac0d2c0220],[상송],[한기대]
+abc:[40bd001563085fc35165329ea1ff5c5ecbdbbeef],[가나],[기노]
+hihi:[40bd001563085fc35165329ea1ff5c5ecbdbbeef],[hello],[world]
+hoho:[2abd55e001c524cb2cf6300a89ca6366848a77d5],[파이선],[스크립트]
+finder:[81fe8bfe87576c3ecb22426f8e57847382917acf],[정재현],[한국기술교육대]
